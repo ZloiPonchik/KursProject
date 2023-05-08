@@ -1,0 +1,114 @@
+﻿<Page x:Class="StorehouseOfAppliances.Pages.UsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:StorehouseOfAppliances.Pages"      
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Список пользователей">
+    <Page.Resources>
+        <local:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter"
+                xmlns:local="clr-namespace:StorehouseOfAppliances.Converter"/>
+    </Page.Resources>
+    <Grid Background="{StaticResource BackgroundSecondaryBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="210"/>
+        </Grid.ColumnDefinitions>
+        <Grid >
+            <DataGrid 
+                SelectedValuePath="Login"
+                x:Name="UsersGrid"
+                Style="{StaticResource BaseDataGridStyle}"
+                CanUserResizeColumns="False" 
+                CanUserResizeRows="False"
+                CanUserAddRows="False"
+                Background="{StaticResource BackgroundSecondaryBrush}"
+                ItemsSource="{Binding Users1}"
+                AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn 
+                        Width="auto"
+                        Header="Логин"
+                        Binding="{Binding Login}"/>
+                    <DataGridTextColumn 
+                        Header="Роль"
+                        Binding="{Binding RoleName}"/>
+                    <DataGridTextColumn 
+                        Header="Фамилия"
+                        Binding="{Binding LastName}"/>
+                    <DataGridTextColumn 
+                        Header="Имя"
+                        Binding="{Binding FirstName}"/>
+                    <DataGridTextColumn 
+                        Header="Отчество"
+                        Binding="{Binding Patronymic}"/>
+                    <DataGridTextColumn 
+                        Width="auto"
+                        Header="Номер телефона"
+                        Binding="{Binding TelephoneNumber}"/>
+                    <DataGridTemplateColumn 
+                        Width="auto"
+                        Header="Изображение">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image 
+                                    Width="150"
+                                    Height="150"
+                                    Source="{Binding Image, Converter={StaticResource ByteArrayToImageConverter}}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid 
+            Grid.Column="1" 
+            Background="{StaticResource BackgroundPrimaryLightBrush}">
+            <StackPanel 
+                VerticalAlignment="Top"
+                HorizontalAlignment="Center"
+                Orientation="Vertical">
+                <Button 
+                    Name="ButtonAddUser"
+                    Content="Добавить пользователя"
+                    Margin="0 10 0 10"
+                    Click="ButtonAddUser_Click"/>
+                <Button
+                    Content="Вернуться в меню" 
+                    Click="ButtonGoBackMenu_Click"/>
+            </StackPanel>
+            <StackPanel
+                VerticalAlignment="Bottom"
+                HorizontalAlignment="Center"
+                Orientation="Vertical">
+                <Label 
+                    HorizontalAlignment="Center"
+                    Content="Редактировать пользователя"/>
+                <Image
+                    Margin="19 0 0 0"
+                    HorizontalAlignment="Center"
+                    Tag="Admin"
+                    Name="TableEditButton"
+                    Style="{StaticResource ButtonEditDataTable}"
+                    Width="100"
+                    Height="100" 
+                    MouseDown="ButtonEditDataTable_Click"/>
+                <Label 
+                    HorizontalAlignment="Center"
+                    Content="Удалить пользователя"/>
+                <Image
+                    Margin="0 0 0 10"
+                    HorizontalAlignment="Center"
+                    Tag="Admin"
+                    Name="TableDeleteButton"
+                    Style="{StaticResource ButtonDeleteDataTable}"
+                    Width="100"
+                    Height="100" 
+                    MouseDown="ButtonDeleteDataTable_Click"
+                    />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

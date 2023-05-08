@@ -1,0 +1,41 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="ForegroundColorLight">#FFF</Color>
+    <SolidColorBrush x:Key="ForegroundColorLightBrush"  Color="{StaticResource ForegroundColorLight}" Opacity="0.5"/>
+
+    <Color x:Key="ColorLight">#4d9ba1</Color>
+    <SolidColorBrush x:Key="BackgroundColorLightBrush" Color="{StaticResource ColorLight}" />
+
+    <Color x:Key="ColorDark">#489096</Color>
+    <SolidColorBrush x:Key="BackgroundColorDarkBrush" Color="{StaticResource ColorDark}" />
+
+    <Color x:Key="BackgroundLight">#FFF</Color>
+    <SolidColorBrush x:Key="BackgroundLightBrush" Color="{StaticResource BackgroundLight}" />
+
+    <Color x:Key="BackgroundPrimary">#4d9ba1</Color>
+    <SolidColorBrush x:Key="BackgroundPrimaryBrush" Color="{StaticResource BackgroundPrimary}" />
+
+    <Color x:Key="BackgroundPrimaryLight">#77c2c7</Color>
+    <SolidColorBrush x:Key="BackgroundPrimaryLightBrush" Color="{StaticResource BackgroundPrimaryLight}" />
+
+    <Color x:Key="BackgroundSecondary">#AFEEEE</Color>
+    <SolidColorBrush x:Key="BackgroundSecondaryBrush" Color="{StaticResource BackgroundSecondary}" />
+
+    <Color x:Key="BackgroundSecondaryLight">#f5bf38</Color>
+    <SolidColorBrush x:Key="BackgroundSecondaryLightBrush" Color="{StaticResource BackgroundSecondaryLight}" />
+
+    <Color x:Key="BackgroundThirdLight">#edad0c</Color>
+    <SolidColorBrush x:Key="BackgroundThirdLightBrush" Color="{StaticResource BackgroundThirdLight}" />
+
+    <Color x:Key="ForegroundMain">#000</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="IconGrid">#000</Color>
+    <SolidColorBrush x:Key="IconGridBrush" Color="{StaticResource IconGrid}"/>
+
+    <Color x:Key="BorderButtonMenu">LightBlue</Color>
+    <SolidColorBrush x:Key="BorderButtonMenuBrush" Color="{StaticResource BorderButtonMenu}"/>
+
+</ResourceDictionary>

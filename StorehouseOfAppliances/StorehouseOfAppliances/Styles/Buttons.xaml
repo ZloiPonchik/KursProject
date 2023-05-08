@@ -1,0 +1,240 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseFontButtonStyle}">
+        <Setter Property="Background" Value="{StaticResource BackgroundSecondaryBrush}" />
+        <Setter Property="FontSize" Value="{StaticResource MediumSize}" />
+        <Setter Property="HorizontalContentAlignment" Value="Center" />
+        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="Foreground" Value="{StaticResource ForegroundMainBrush}" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ButtonBase}">
+                    <Border 
+                        x:Name="border"
+                        CornerRadius="5"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}"
+                        Background="{TemplateBinding Background}" 
+                        SnapsToDevicePixels="True">
+                        <TextBlock 
+                            Text="{TemplateBinding Content}" 
+                            Focusable="False" 
+                            FontFamily="{TemplateBinding FontFamily}"
+                            HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" 
+                            Margin="{TemplateBinding Padding}" 
+                            SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" 
+                            VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Cursor" Value="Hand" />
+                            <Setter Property="Background" TargetName="border" Value="{StaticResource BackgroundSecondaryLightBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter Property="Background" TargetName="border" Value="{StaticResource BackgroundThirdLightBrush}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type Button}" x:Key="MenuButtonUsersStyle">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                        BorderThickness="2"
+                        CornerRadius="0"  
+                        TextBlock.Foreground="{TemplateBinding Foreground}"
+                        x:Name="Border">
+                        <Border.Background>
+                            <ImageBrush ImageSource=  "\Images\Backgound\users.png"  Stretch="Uniform"/>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect/>
+                        </Border.Effect>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonMenuBrush}" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter TargetName="Border" Property="Border.Effect" Value="{x:Null}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type Button}" x:Key="MenuButtonPalletsStyle">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                        BorderThickness="2"
+                        CornerRadius="0"  
+                        TextBlock.Foreground="{TemplateBinding Foreground}"
+                        x:Name="Border">
+                        <Border.Background>
+                            <ImageBrush ImageSource=  "\Images\Backgound\pallets.png"  Stretch="Uniform"/>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect/>
+                        </Border.Effect>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonMenuBrush}" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter TargetName="Border" Property="Border.Effect" Value="{x:Null}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type Button}" x:Key="MenuButtonMoveProductStyle">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                        BorderThickness="2"
+                        CornerRadius="0"  
+                        TextBlock.Foreground="{TemplateBinding Foreground}"
+                        x:Name="Border">
+                        <Border.Background>
+                            <ImageBrush ImageSource=  "\Images\Backgound\move.png"  Stretch="Uniform"/>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect/>
+                        </Border.Effect>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonMenuBrush}" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter TargetName="Border" Property="Border.Effect" Value="{x:Null}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <Style TargetType="{x:Type Button}" x:Key="MenuButtonBoxesStyle">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                        BorderThickness="2"
+                        CornerRadius="0"
+                        TextBlock.Foreground="{TemplateBinding Foreground}"
+                        x:Name="Border">
+                        <Border.Background>
+                            <ImageBrush ImageSource=  "\Images\Backgound\boxes.png"  Stretch="Uniform"/>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect/>
+                        </Border.Effect>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonMenuBrush}" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter TargetName="Border" Property="Border.Effect" Value="{x:Null}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style TargetType="{x:Type Image}" x:Key="ToolBarButtonWrap">
+        <Setter Property="Source" Value="/Images/ToolBar/OffWrapScreen.png"/>
+        <Style.Triggers>
+            <DataTrigger 
+                Binding="{Binding IsMouseOver, ElementName=WrapScreenButton}"
+                Value="True">
+                <Setter Property="Source" Value="/Images/ToolBar/OnWrapScreen.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+    
+    <Style TargetType="{x:Type Image}" x:Key="ToolBarButtonClose">
+        <Setter Property="Source" Value="/Images/ToolBar/OffCloseWindow.png"/>
+        <Style.Triggers>
+            <DataTrigger 
+                Binding="{Binding IsMouseOver, ElementName=CloseWindowButton}"
+                Value="True">
+                <Setter Property="Source" Value="/Images/ToolBar/OnCloseWindow.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style TargetType="{x:Type Image}" x:Key="ToolBarButtonFullScreen">
+        <Setter Property="Source" Value="/Images/ToolBar/OffFullScreen.png"/>
+        <Style.Triggers>
+            <DataTrigger 
+                Binding="{Binding IsMouseOver, ElementName=FullScreenButton}"
+                Value="True">
+                <Setter Property="Source" Value="/Images/ToolBar/OnFullScreen.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style TargetType="{x:Type Image}" x:Key="ButtonDeleteDataTable">
+        <Setter Property="Source" Value="\Images\TableButton\BtnDeletePassive.png"/>
+        <Style.Triggers>
+            <DataTrigger 
+                Binding="{Binding IsMouseOver, ElementName=TableDeleteButton}"
+                Value="True">
+                <Setter Property="Source" Value="\Images\TableButton\BtnDeleteActive.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style TargetType="{x:Type Image}" x:Key="ButtonEditDataTable">
+        <Setter Property="Source" Value="\Images\TableButton\BtnEditPassive.png"/>
+        <Style.Triggers>
+            <DataTrigger 
+                Binding="{Binding IsMouseOver, ElementName=TableEditButton}"
+                Value="True">
+                <Setter Property="Source" Value="\Images\TableButton\BtnEditActive.png"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+
+</ResourceDictionary>

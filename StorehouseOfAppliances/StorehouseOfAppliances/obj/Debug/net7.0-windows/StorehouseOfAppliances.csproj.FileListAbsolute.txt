@@ -1,0 +1,174 @@
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.AssemblyReference.cache
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\MenuPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Buttons.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Colors.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Controls.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Fonts.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddPalletPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddProductPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\DataUserPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\MenuPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\PalletsPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\ProductsPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\UsersPage.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances_MarkupCompile.cache
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances_MarkupCompile.lref
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.exe
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.deps.json
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.runtimeconfig.json
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.pdb
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliancesPasswordChecker.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliancesPasswordChecker.pdb
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\App.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddPalletPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddProductPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\DataUserPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\PalletsPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\ProductsPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\UsersPage.baml
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.g.resources
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.AssemblyInfoInputs.cache
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.AssemblyInfo.cs
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.CopyComplete
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\refint\StorehouseOfAppliances.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.pdb
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.genruntimeconfig.cache
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\ref\StorehouseOfAppliances.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Images\Avatar\BaseAvatar.png
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Zloi_\source\repos\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.exe
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Images\Avatar\BaseAvatar.png
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.deps.json
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.runtimeconfig.json
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliances.pdb
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliancesPasswordChecker.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\bin\Debug\net7.0-windows\StorehouseOfAppliancesPasswordChecker.pdb
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.AssemblyReference.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\MenuPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Buttons.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Colors.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Controls.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Styles\Fonts.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddPalletPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddProductPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\DataUserPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\MenuPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\PalletsPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\ProductsPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\UsersPage.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances_MarkupCompile.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances_MarkupCompile.lref
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\App.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddPalletPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddProductPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\DataUserPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\PalletsPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\ProductsPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\Pages\UsersPage.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.g.resources
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.AssemblyInfoInputs.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.AssemblyInfo.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.csproj.CopyComplete
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\refint\StorehouseOfAppliances.dll
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.pdb
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\StorehouseOfAppliances.genruntimeconfig.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\StorehouseOfAppliances\StorehouseOfAppliances\obj\Debug\net7.0-windows\ref\StorehouseOfAppliances.dll

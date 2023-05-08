@@ -1,0 +1,92 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Backgound\backFon.png" />
+    <None Remove="Images\Backgound\box.png" />
+    <None Remove="Images\Backgound\boxes.png" />
+    <None Remove="Images\Backgound\car.png" />
+    <None Remove="Images\Backgound\move.png" />
+    <None Remove="Images\Backgound\pallets.png" />
+    <None Remove="Images\Backgound\users.png" />
+    <None Remove="Images\Icon\icon_boxes.png" />
+    <None Remove="Images\Icon\icon_car.png" />
+    <None Remove="Images\Icon\icon_move.png" />
+    <None Remove="Images\Icon\icon_pallet.png" />
+    <None Remove="Images\Icon\icon_user.png" />
+    <None Remove="Images\Icon\icon_users.png" />
+    <None Remove="Images\Icon\move.png" />
+    <None Remove="Images\Logo\box.ico" />
+    <None Remove="Images\Logo\box.png" />
+    <None Remove="Images\Logo\storage_logo.png" />
+    <None Remove="Images\TableButton\BtnDeleteActive.png" />
+    <None Remove="Images\TableButton\BtnDeletePassive.png" />
+    <None Remove="Images\TableButton\BtnEditActive.png" />
+    <None Remove="Images\TableButton\BtnEditPassive.png" />
+    <None Remove="Images\ToolBar\OffCloseWindow.png" />
+    <None Remove="Images\ToolBar\OffFullScreen.png" />
+    <None Remove="Images\ToolBar\OffNormalScreen.png" />
+    <None Remove="Images\ToolBar\OffWrapScreen.png" />
+    <None Remove="Images\ToolBar\OnCloseWindow 1.png" />
+    <None Remove="Images\ToolBar\OnCloseWindow.png" />
+    <None Remove="Images\ToolBar\OnFullScreen.png" />
+    <None Remove="Images\ToolBar\OnNormalScreen.png" />
+    <None Remove="Images\ToolBar\OnWrapScreen.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Backgound\move.png" />
+    <Resource Include="Images\Icon\icon_car.png" />
+    <Resource Include="Images\Icon\icon_move.png" />
+    <Resource Include="Images\Logo\box.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Backgound\backFon.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Backgound\boxes.png" />
+    <Resource Include="Images\Backgound\car.png" />
+    <Resource Include="Images\Backgound\pallets.png" />
+    <Resource Include="Images\Backgound\users.png" />
+    <Resource Include="Images\Icon\icon_boxes.png" />
+    <Resource Include="Images\Icon\icon_pallet.png" />
+    <Resource Include="Images\Icon\icon_users.png" />
+    <Resource Include="Images\Logo\box.ico" />
+    <Resource Include="Images\Logo\storage_logo.png" />
+    <Resource Include="Images\TableButton\BtnDeleteActive.png" />
+    <Resource Include="Images\TableButton\BtnDeletePassive.png" />
+    <Resource Include="Images\TableButton\BtnEditActive.png" />
+    <Resource Include="Images\TableButton\BtnEditPassive.png" />
+    <Resource Include="Images\ToolBar\OffNormalScreen.png" />
+    <Resource Include="Images\ToolBar\OnNormalScreen.png" />
+    <Resource Include="Images\ToolBar\OffCloseWindow.png" />
+    <Resource Include="Images\ToolBar\OffFullScreen.png" />
+    <Resource Include="Images\ToolBar\OffWrapScreen.png" />
+    <Resource Include="Images\ToolBar\OnCloseWindow.png" />
+    <Resource Include="Images\ToolBar\OnFullScreen.png" />
+    <Resource Include="Images\ToolBar\OnWrapScreen.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StorehouseOfAppliancesPasswordChecker\StorehouseOfAppliancesPasswordChecker.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\Avatar\BaseAvatar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
