@@ -1,0 +1,8 @@
+Для входа под ролью "Admin" 
+Логин: Admin 
+Пароль: 123qwe!@#QWE
+
+
+Для входа под ролью "Storekeeper" 
+Логин: BladeRunner
+Пароль: SVn5Y9fZ!
